@@ -1,1 +1,18 @@
-#mynavbar{color: red;}
+.jumbotron {
+  background-image: url('../images/stem.jpg');
+     background-size:contain;
+	min-height: 500px;
+  background-repeat: no-repeat;
+
+}
+#mission {
+  background: rgba(32, 35, 41, 0.9);
+  color: #F5F5F5;
+
+}
+a#stem {
+	font-family: courier;
+} 
+#paragraph {font-size: 25Px;
+color: #BC8F8F; }
+
